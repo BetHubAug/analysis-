@@ -1,0 +1,15 @@
+# Core dependencies
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+
+# Optional dependencies (if needed for specific purposes)
+jupyter
+notebook
+statsmodels
+tensorflow
+torch
+
+# Add any other libraries your project depends on
